@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)
-![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)
-![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)
-![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)
+[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)](https://github.com/tasercake?tab=repositories&sort=stargazers)
+[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)](#)
+[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)](https://github.com/tasercake?tab=stars)
+[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)](#)
