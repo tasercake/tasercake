@@ -13,7 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Krishna!
+
+### Recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Some of my favorite languages
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)](https://github.com/tasercake?tab=repositories&sort=stargazers)
+
+### Contribution stats
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)](#)
+
+### I thought these projects were pretty cool
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)](https://github.com/tasercake?tab=stars)
+
+### My "achievements"
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)](#)
