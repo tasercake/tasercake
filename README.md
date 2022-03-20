@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Krishna!
+# Hello 👋
+
+I'm Krishna, a full stack developer
 
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Some of my favorite languages
+### Favorite languages
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)](https://github.com/tasercake?tab=repositories&sort=stargazers)
 
 ### Contribution stats
