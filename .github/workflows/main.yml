@@ -44,7 +44,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
-          plugin_languages_ignored: jupyter notebook
+          plugin_languages_ignored: jupyter notebook, AMPL, SCSS, HTML
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_recent.days: 14
