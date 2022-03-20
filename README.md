@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/tasercake/tasercake/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)
+![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)
+![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)
+![Metrics](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)
