@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 ### I think these projects are neat
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)](https://github.com/tasercake?tab=stars)
 
-### My "achievements"
+---
+
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)](#)
