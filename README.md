@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Contribution stats
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)](#)
 
-### I think these projects were neat
+### I think these projects are neat
 [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)](https://github.com/tasercake?tab=stars)
 
 ### My "achievements"
