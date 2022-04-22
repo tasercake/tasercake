@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pynamodb/PynamoDB</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pythonic interface to Amazon's DynamoDB</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kiwicom/structlog-sentry</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sentry integration for structlog</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/release</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate changelogs with a single command</div>
