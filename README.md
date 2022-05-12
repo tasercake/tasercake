@@ -13,22 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! 👋
-
-### Recent blog posts
+<!-- ### Recent blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Favorite languages
-[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)](https://github.com/tasercake?tab=repositories&sort=stargazers)
+<!-- ### Favorite languages -->
+<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)](https://github.com/tasercake?tab=repositories&sort=stargazers) -->
 
-### Contribution stats
-[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)](#)
+<!-- ### Contribution stats -->
+<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)](#) -->
 
-### I think these projects are neat
-[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)](https://github.com/tasercake?tab=stars)
+<!-- ### I think these projects are neat -->
+<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)](https://github.com/tasercake?tab=stars) -->
 
----
+<!-- --- -->
 
-[![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)](#)
+<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)](#) -->
