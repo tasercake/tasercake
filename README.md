@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Recent blog posts
+### [🌏️ Website](https://penukonda.me)
+
+### [✍️ Blog posts](https://dev.tasercake.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Use Any React Hook in a Class Component &lpar;With TypeScript&rpar;](https://dev.tasercake.com/react-hook-class-component-typescript)
