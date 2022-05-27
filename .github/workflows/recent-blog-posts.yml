@@ -19,4 +19,4 @@ jobs:
       - name: Pull in hashnode.dev posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.tasercake.com/rss.xml"
+          feed_list: "https://dev.penukonda.me/rss.xml"
