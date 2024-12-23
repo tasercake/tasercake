@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 
 ### [🌏️ Website](https://penukonda.me)
 
-### [✍️ Stuff I've written](https://dev.tasercake.com)
-
-<!-- NOTE: Keep the comments blog post comment below intact. It's auto-populated by a GH Action that reads posts from HashNode. -->
-<!-- BLOG-POST-LIST:START -->
-- [Use Any React Hook in a Class Component &lpar;With TypeScript&rpar;](https://dev.penukonda.me/react-hook-class-component-typescript)
-<!-- BLOG-POST-LIST:END -->
-
 <!-- ### Favorite languages -->
 <!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)](https://github.com/tasercake?tab=repositories&sort=stargazers) -->
 
