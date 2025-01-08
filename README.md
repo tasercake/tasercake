@@ -14,16 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ### [🌏️ Website](https://penukonda.me)
-
-<!-- ### Favorite languages -->
-<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/languages.svg)](https://github.com/tasercake?tab=repositories&sort=stargazers) -->
-
-<!-- ### Contribution stats -->
-<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/base.svg)](#) -->
-
-<!-- ### I think these projects are neat -->
-<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/stars.svg)](https://github.com/tasercake?tab=stars) -->
-
-<!-- --- -->
-
-<!-- [![🐙](https://github.com/tasercake/tasercake/blob/main/metrics/achievements.svg)](#) -->
